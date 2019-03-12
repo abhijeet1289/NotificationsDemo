@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "264288739728",
+    "firebase_url": "https://notificationdemo-234310.firebaseio.com",
+    "project_id": "notificationdemo-234310",
+    "storage_bucket": "notificationdemo-234310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264288739728:android:a7dc3e34890715bc",
+        "android_client_info": {
+          "package_name": "com.droidaxel.notificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264288739728-fjqonpahpsit15jricdga193spn95p08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-JBwrfPRI1wN_Zc3BOxcng8dP6Fva2jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
